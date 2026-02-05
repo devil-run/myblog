@@ -10,8 +10,10 @@
 ### INSERT INTO categories VALUES ('1', '算法题解'), ('2', '项目开发'), ('3', '生活随笔');
 ## 第二个是KV 键值对存储，用来存全局设置、缓存等
 <img width="2548" height="1242" alt="image" src="https://github.com/user-attachments/assets/e1744991-8f1b-4e39-8484-47e4f1e27b5a" />
+
 ## 建立 Cloudflare Worker 基本结构，定义 page 函数和基础 CSS 样式
 <img width="2548" height="1242" alt="image" src="https://github.com/user-attachments/assets/f0805b94-bf14-41ed-a8fa-e2f4a0f1963f" />
+
 # 2026/02/05
 # D1 数据库接入与文章列表渲染
 ## 接入数据库，实现首页动态加载文章标题
